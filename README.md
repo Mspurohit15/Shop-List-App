@@ -71,9 +71,9 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 
 This application is just the beginning! Feel free to fork and enhance it by adding:
 
--> Category-based sorting for items.
--> Notifications to remind users of their shopping tasks.
--> Cloud backup for multi-device syncing.
+1.  Category-based sorting for items.
+2. Notifications to remind users of their shopping tasks.
+3. Cloud backup for multi-device syncing.
 
 
 ## Let’s collaborate to make this app even better!
